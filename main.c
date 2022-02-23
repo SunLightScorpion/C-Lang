@@ -7,7 +7,7 @@ int main()
     char str [120];
     int x = 8%2;
 
-    printf("%a\n", x);
+    printf("%d\n", x);
 
     if(x == 0){
         printf("Roman ist cool\n");
