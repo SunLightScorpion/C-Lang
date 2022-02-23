@@ -14,7 +14,7 @@ int main()
         printf("Roman ist cool\n");
     } else {
         printf("Robin ist cool\n");
-     }
+    }
 
     printf("F an den Gefallenen Bruder\n");
 
