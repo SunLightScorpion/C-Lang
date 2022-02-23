@@ -4,6 +4,7 @@
 
 int main()
 {
+
     char str [120];
     int x = 8%2;
 
