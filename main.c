@@ -2,9 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main()
-{
-
+int main(){
     char str [120];
     int x = 8%2;
 
